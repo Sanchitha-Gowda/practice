@@ -1,2 +1,2 @@
 # practice
-for git command repository
+practice for git command repository
